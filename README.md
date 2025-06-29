@@ -75,9 +75,13 @@ This project aims to track football players, referees, and the ball from a match
 
 ## Technical Details
 
-- Model Used: YOLOv11 (pretrained, provided externally).
+- Language used: Python 3.10.18
 
-- Tracking Approach: Frame-to-frame matching using center distance and color.
+- IDE used - Visual Studio Code
+
+- Model used: YOLOv11 (pretrained)
+
+- Tracking approach: Frame-to-frame matching using center distance and color.
 
 - Thresholds (these values can be modified in the code as per your requirements) :
 
@@ -87,7 +91,7 @@ This project aims to track football players, referees, and the ball from a match
 
     - ID matching distance = 60 pixels
 
-- Video Input: 1280×720, 15 seconds, 25 FPS
+- Video input: 1280×720, 15 seconds, 25 FPS
 
 
 ##  Performance Optimizations
