@@ -1,0 +1,21 @@
+CPU version – no GPU required
+
+ultralytics==8.3.158
+opencv-python==4.11.0.86
+numpy==1.26.4
+
+
+
+
+CUDA version – for GPU acceleration
+
+ultralytics==8.3.158
+opencv-python==4.11.0.86
+numpy==1.26.4
+torch==2.6.0+cu118
+torchvision==0.21.0+cu118
+torchaudio==2.6.0+cu118
+
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+Note: Make sure your system supports CUDA 11.8 and your drivers are up to date.
