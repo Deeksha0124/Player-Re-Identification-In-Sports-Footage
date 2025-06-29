@@ -1,0 +1,2 @@
+# Player-Re-identification-In-Sports-Footage
+This project tracks football players, referees, and the ball from a match video using a pretrained Ultralytics YOLOv11 model. The goal is to ensure that the same player retains same ID, even across different camera feeds  or after going out of the view.
