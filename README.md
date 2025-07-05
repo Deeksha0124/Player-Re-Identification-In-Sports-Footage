@@ -1,4 +1,4 @@
-# ![image](https://github.com/user-attachments/assets/a0c42d93-2347-4f2d-90bc-68b103a34414)  Player Re-identification In Sports Footage (Single Feed): 
+# ⚽ Player Re-identification In Sports Footage (Single Feed): 
 
 This project aims to track football players, referees, and the ball from a match video using a pretrained *Ultralytics YOLOv11 model*. The goal is to ensure that the same player retains same ID, even across different camera feeds or after going out of the view.
 
